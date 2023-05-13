@@ -6,4 +6,4 @@ Commands are separated from each other by newline, semicolon, or double ampersan
 
 Mysh can be executed by running the following command:
 
-<code>mysh input_file/<code>
+<code>mysh input_file</code>
