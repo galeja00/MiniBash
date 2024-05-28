@@ -20,7 +20,7 @@ int is_full_line(char *buffer, int size) {
 }
 
 // zvetsuje buffer
-// funkce nevyuzita v tomto programu -> nestihl jsem implementovat
+// funkce nevyuzita v tomto programu - potreba doimplementovat
 char* create_bigger_buffer(char *buffer, int *size) {
 	*size *= 2;
 	char* res = realloc(sizeof(char) * *size);
