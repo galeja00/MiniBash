@@ -1,3 +1,5 @@
+# MiniShell
+
 Mysh is a simple shell that executes commands with arguments. The syntax of this shell is as follows:
 
 Commands and their arguments can consist of any sequence of characters except for space, tab, newline, semicolon, and double ampersand.
